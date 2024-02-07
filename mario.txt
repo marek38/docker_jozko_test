@@ -1,0 +1,1 @@
+ano toto je naš docker image ktory sme s mariom vytvorili!!
